@@ -1,6 +1,6 @@
+pymysql
 fastapi
 gradio
 torch
 transformers
 numpy 
-mysql
